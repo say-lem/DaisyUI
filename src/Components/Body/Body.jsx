@@ -16,8 +16,14 @@ const Body = () => {
           <RightBody />
         </div>
         <div className=" w-[710px] h-[100px] mt-[886px] absolute flex justify-between">
-          <div className="h-[100px] w-[360px] bg-white rounded-[55px] shadow-2xl"></div>
-          <div className="h-[100px] w-[320px] rounded-[55px] bg-white shadow-2xl"></div>
+          <div className="h-[100px] gap-4 w-[360px] bg-white rounded-[55px] shadow-2xl flex items-center justify-center">
+            <img src="/public/Group 20.svg" alt="" />
+            <p className="w-[122px] text-[19.4px] text-[#2B2B2B]">72k+ Happy Customers</p>
+          </div>
+          <div className="h-[100px] w-[320px] rounded-[55px] bg-white shadow-2xl flex items-center justify-center gap-4">
+          <img src="/public/Ellipse 3.png" alt="" />
+            <p className="w-[174px] text-[19.4px] text-[#2B2B2B]">200+ New Listings Everyday!</p>
+          </div>
         </div>
       </div>
       <Section2/>

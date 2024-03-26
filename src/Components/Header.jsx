@@ -1,6 +1,6 @@
 const NavBar = () => {
   return (
-    <div className="navbar bg-white flex justify-center sticky top-0 z-1000">
+    <div className="navbar bg-white flex justify-center sticky top-0  z-50">
       <div className="flex justify-between w-[90%]">
         <div className="flex-none text-black">
           <ul className="menu menu-horizontal px-1 hover:">

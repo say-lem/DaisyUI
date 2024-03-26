@@ -13,7 +13,7 @@ const LeftBody = () => {
       </div>
       <div>
         <div className="h-[60px] w-[60px] absolute ml-[510px] mt-2 rounded-full rotate-45 bg-gradient-to-b from-[#4361EE] to-[#4361EE00]"></div>
-        <div className="carousel w-[540px] h-[351px] rounded-[20px] mt-11">
+        <div className="carousel w-[540px] h-[351px] rounded-[20px] mt-11 ">
           <div id="slide1" className="carousel-item relative w-full">
             <img
               src="/public/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table_105762-1783.avif"
